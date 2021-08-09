@@ -1,4 +1,5 @@
-# vuetify
+# 
+A search engine using gitHub Api made in Vue
 
 ## Project setup
 ```
